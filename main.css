@@ -1,0 +1,37 @@
+.body
+{ 
+    background-image: linear-gradient(to right,#8a3ab9,#e95950,#bc2a8d,#fccc63 ,
+    #fbad50, #cd486b,#4c68d7) ;
+}
+.box{
+    background-color: white;
+    box-shadow: black;
+    width: 250px;
+    height: 300px;
+    border: 15px solid rgb(155, 168, 155);
+    padding: 50px;
+    margin: 5% 35% 0%;
+    border-radius: 10px;
+}
+.username ,.password
+{
+    height: 20px;
+    width: 255px;
+    border-radius: 3px;
+    border-color: rgba(130, 145, 145, 0.528);
+
+}
+.uid_insta
+{
+    font-style: italic;
+    margin-top: 0px;
+}
+.login
+{
+    border-radius: 5px;
+    height:25px;
+    width:255px;
+    color: white;
+    
+    background-color: #3f7cd1;
+}
