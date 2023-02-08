@@ -4,11 +4,12 @@
     #fbad50, #cd486b,#4c68d7) ;
 }
 .box{
+    -ms-flex-align: center;
     background-color: white;
     box-shadow: black;
     width: 250px;
     height: 300px;
-    border: 15px solid rgb(155, 168, 155);
+    border: 2px solid rgb(0, 0, 0);
     padding: 50px;
     margin: 5% 35% 0%;
     border-radius: 10px;
@@ -18,7 +19,7 @@
     height: 20px;
     width: 255px;
     border-radius: 3px;
-    border-color: rgba(130, 145, 145, 0.528);
+    border-color: rgba(15, 15, 15, 0.967)
 
 }
 .uid_insta
@@ -34,4 +35,8 @@
     color: white;
     
     background-color: #3f7cd1;
+}
+.store{
+    height: 30px;
+    width: 110px;
 }
